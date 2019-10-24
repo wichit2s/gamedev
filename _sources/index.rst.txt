@@ -1,0 +1,34 @@
+เอกสารรายวิชา GameDev
+===================================
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   :caption: สัปดาห์ที่:
+
+  
+   week-01/index.rst
+   week-02/index.rst
+   week-03/index.rst
+   week-04/index.rst
+   week-05/index.rst
+   week-06/index.rst
+   week-07/index.rst
+   week-08/index.rst
+   week-09/index.rst
+   week-10/index.rst
+   week-11/index.rst
+   week-12/index.rst
+   week-13/index.rst
+   week-14/index.rst
+   week-15/index.rst
+   week-16/index.rst
+   week-17/index.rst
+
+
+ดัชนีและตาราง
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
